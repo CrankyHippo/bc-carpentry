@@ -17,11 +17,11 @@
 
 # my ignores
 /.husky
-.eslintc
+.eslintrc
 .eslintignore
-.lint-staged.config.js
-.netlify.toml
-.postcss.config.js
+/lint-staged.config.js
+netlify.toml
+postcss.config.js
 .babelrc
 
 
