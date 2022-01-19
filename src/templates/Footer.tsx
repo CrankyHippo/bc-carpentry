@@ -42,7 +42,7 @@ const Footer = () => (
               </a>
             </Link>
 
-            <Link href="/">
+            <Link href="mailto:bccarpentry2@gmail.com">
               <a>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
