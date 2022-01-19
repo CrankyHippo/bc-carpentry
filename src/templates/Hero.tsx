@@ -17,7 +17,7 @@ const Hero = () => (
           </Link>
         </li>
         <li>
-          <Link href="/">
+          <Link href="mailto:bccarpentry2@gmail.com">
             <a>CONTACT</a>
           </Link>
         </li>
@@ -38,7 +38,7 @@ const Hero = () => (
         }
         description="Please contact us for free estimates, reasonable pricing, with quality craftsmanship."
         button={
-          <Link href="/">
+          <Link href="mailto:bccarpentry2@gmail.com">
             <a>
               <Button xl>CONTACT</Button>
             </a>
