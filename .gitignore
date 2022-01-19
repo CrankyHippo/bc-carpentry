@@ -21,7 +21,6 @@
 .eslintignore
 /lint-staged.config.js
 netlify.toml
-postcss.config.js
 .babelrc
 
 
