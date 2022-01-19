@@ -8,9 +8,9 @@ const Banner = () => (
   <Section>
     <CTABanner
       title="Follow us on Instagram to see our latest work!"
-      subtitle="See our latest work on Instagram."
+      subtitle=""
       button={
-        <Link href="https://creativedesignsguru.com/category/nextjs/">
+        <Link href="https://www.instagram.com/brentccarpentry/">
           <a>
             <Button>FOLLOW</Button>
           </a>
