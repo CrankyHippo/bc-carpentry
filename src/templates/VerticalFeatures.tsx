@@ -21,7 +21,7 @@ const VerticalFeatures = () => (
     />
     <VerticalFeatureRow
       title="Customer Satisfaction"
-      description="Brent was professional and courteous. He did a siding job for me and is doing two-deck railings for me next. His work speaks for itself. The attention to detail is unrivaled and the customer service was excellent. I highly recommend BC Carpentry to anyone needing home repairs! - Bill R."
+      description='"Brent was professional and courteous. He did a siding job for me and is doing two-deck railings for me next. His work speaks for itself. The attention to detail is unrivaled and the customer service was excellent. I highly recommend BC Carpentry to anyone needing home repairs!" - Bill R.'
       image="/assets/images/feature3.jpeg"
       imageAlt="Redwood deck 8'x60' with redwood lattice"
     />
