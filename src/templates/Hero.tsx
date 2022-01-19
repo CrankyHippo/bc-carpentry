@@ -13,12 +13,12 @@ const Hero = () => (
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
           <Link href="https://www.instagram.com/brentccarpentry/">
-            <a>Portfolio</a>
+            <a>PORTFOLIO</a>
           </Link>
         </li>
         <li>
           <Link href="/">
-            <a>Contact</a>
+            <a>CONTACT</a>
           </Link>
         </li>
       </NavbarTwoColumns>
@@ -40,7 +40,7 @@ const Hero = () => (
         button={
           <Link href="/">
             <a>
-              <Button xl>Contact Us</Button>
+              <Button xl>CONTACT</Button>
             </a>
           </Link>
         }
