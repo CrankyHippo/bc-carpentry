@@ -15,6 +15,16 @@
 # production
 /build
 
+# my ignores
+/.husky
+.eslintc
+.eslintignore
+.lint-staged.config.js
+.netlify.toml
+.postcss.config.js
+.babelrc
+
+
 # misc
 .DS_Store
 *.pem
