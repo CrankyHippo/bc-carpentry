@@ -11,6 +11,7 @@ type ICenteredFooterProps = {
 
 const CenteredFooter = (props: ICenteredFooterProps) => (
   <div className="text-center">
+    {props.logo}
     <span className="flex-row text-center">
       <p>bccarpentry2@gmail.com</p>
       <p>Petaluma, California</p>

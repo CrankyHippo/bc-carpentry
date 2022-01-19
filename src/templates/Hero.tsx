@@ -40,7 +40,7 @@ const Hero = () => (
         button={
           <Link href="mailto:bccarpentry2@gmail.com">
             <a>
-              <Button xl>CONTACT</Button>
+              <Button xl>Email: bccarpentry2@gmail.com</Button>
             </a>
           </Link>
         }
