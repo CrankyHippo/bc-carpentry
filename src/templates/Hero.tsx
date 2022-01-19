@@ -8,17 +8,21 @@ import { NavbarTwoColumns } from '../navigation/NavbarTwoColumns';
 import { Logo } from './Logo';
 
 const Hero = () => (
-  <Background color="bg-stone-400">
+  <Background color="bg-gradient-to-b from-slate-600 to-slate-200">
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
           <Link href="https://www.instagram.com/brentccarpentry/">
-            <a>PORTFOLIO</a>
+            <a className="box-border text-black drop-shadow-lg shadow-white">
+              PORTFOLIO
+            </a>
           </Link>
         </li>
         <li>
           <Link href="mailto:bccarpentry2@gmail.com">
-            <a>CONTACT</a>
+            <a className="box-border text-black drop-shadow-lg shadow-white">
+              CONTACT
+            </a>
           </Link>
         </li>
       </NavbarTwoColumns>
@@ -27,7 +31,7 @@ const Hero = () => (
       <HeroOneButton
         title={
           <>
-            <span className="inline-flex items-center border-4 border-solid rounded-lg shadow-lg border-sky-500">
+            <span className="inline-flex items-center rounded-lg shadow-lg">
               <img src="/assets/images/bc-logo.jpeg" alt="BC Carpentry"></img>
             </span>
             <br></br>
