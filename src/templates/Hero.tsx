@@ -19,11 +19,11 @@ const Hero = () => (
           </Link>
         </li>
         <li>
-          <Link href="mailto:bccarpentry2@gmail.com">
+          {/* <Link href="mailto:bccarpentry2@gmail.com">
             <a className="box-border text-black drop-shadow-lg shadow-white">
               CONTACT
             </a>
-          </Link>
+          </Link> */}
         </li>
       </NavbarTwoColumns>
     </Section>
