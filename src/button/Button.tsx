@@ -20,7 +20,7 @@ const Button = (props: IButtonProps) => {
       <style jsx>
         {`
           .btn {
-            @apply inline-block rounded-md text-center;
+            @apply inline-block rounded-md text-center border-2 border-white;
           }
 
           .btn-base {
