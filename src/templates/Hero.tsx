@@ -11,11 +11,10 @@ const Hero = () => (
   <Background color="bg-gradient-to-b from-slate-600 to-slate-200">
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
+        <hr></hr>
         <li>
           <Link href="https://www.instagram.com/brentccarpentry/">
-            <a className="box-border text-black drop-shadow-lg shadow-white">
-              PORTFOLIO
-            </a>
+            <a>PORTFOLIO</a>
           </Link>
         </li>
         <li>
