@@ -17,7 +17,7 @@ const CTABanner = (props: ICTABannerProps) => (
       <div className="text-primary-500">{props.subtitle}</div>
     </div>
 
-    <div className="w-full p-4 border-4 border-solid shadow-2xl sm:w-1/2 border-sky-500">
+    <div className="w-full p-2 bg-white border-2 border-solid shadow-2xl sm:w-1/2 border-sky-500">
       <img
         className="rounded-3xl"
         src={`${props.image}`}
