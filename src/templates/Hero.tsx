@@ -14,7 +14,7 @@ const Hero = () => (
         <hr></hr>
         <li>
           <Link href="https://www.instagram.com/brentccarpentry/">
-            <a>PORTFOLIO</a>
+            <a>Portfolio</a>
           </Link>
         </li>
         <li>
