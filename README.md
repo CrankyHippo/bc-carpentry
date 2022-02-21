@@ -1,6 +1,8 @@
-# This is a project I created for a friend as practice for creating a dynamic landing page for their local business.
+# A Dynamic landing page for a local business.
 
-🚀 Landing Page theme written in Next.js, Tailwind CSS and TypeScript.
+Project was to take a few rescources and images and make a mobile ready page for a local carpentry business. 
+
+🚀 Written in Next.js, Tailwind CSS and TypeScript.
 
 ### Features
 
